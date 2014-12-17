@@ -1,0 +1,961 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-03 22:20+0100\n"
+"PO-Revision-Date: 2013-04-03 22:22+0100\n"
+"Last-Translator: Vladislav Musílek <musilekv@seznam.cz>\n"
+"Language-Team: Simple <info@themes4all.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:19
+#: ../archive.php:69
+#: ../category.php:71
+#: ../index.php:65
+#: ../page.php:37
+#: ../search.php:116
+#: ../single.php:59
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: ../404.php:23
+msgid "The page you are looking for does not exist; it may have been moved, or removed altogether. You might want to try the search function. Alternatively, return to the <a href=\"/\">front page</a>."
+msgstr ""
+
+#: ../404.php:34
+#: ../header.php:123
+msgid "Search"
+msgstr ""
+
+#: ../archive.php:28
+#: ../archive.php:40
+#: ../category.php:30
+#: ../category.php:42
+#: ../index.php:11
+#: ../index.php:30
+#: ../search.php:18
+#: ../search.php:79
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: ../archive.php:48
+#: ../category.php:50
+msgid "READ MORE"
+msgstr ""
+
+#: ../archive.php:73
+#: ../category.php:75
+#: ../index.php:69
+#: ../page.php:41
+#: ../search.php:120
+#: ../single.php:63
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: ../category.php:63
+msgid "PREVIOUS"
+msgstr ""
+
+#: ../category.php:63
+msgid "NEXT"
+msgstr ""
+
+#: ../comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:25
+#: ../index.php:20
+#: ../search.php:46
+#: ../search.php:69
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:25
+msgid "One Comment"
+msgstr ""
+
+#: ../comments.php:25
+#: ../index.php:20
+#: ../search.php:46
+#: ../search.php:69
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:25
+#: ../index.php:18
+msgid "on"
+msgstr ""
+
+#: ../comments.php:35
+msgid "Trackbacks for this post"
+msgstr ""
+
+#: ../comments.php:57
+msgid "Comments are now closed for this article."
+msgstr ""
+
+#: ../comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:84
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../comments.php:84
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr ""
+
+#: ../comments.php:102
+#, php-format
+msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
+msgstr ""
+
+#: ../comments.php:102
+msgid "Log out of this account"
+msgstr ""
+
+#: ../comments.php:107
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:107
+#: ../comments.php:112
+msgid "*"
+msgstr ""
+
+#: ../comments.php:112
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:117
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:124
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:132
+msgid "SEND"
+msgstr ""
+
+#: ../footer.php:28
+msgid "Theme designed and created by"
+msgstr ""
+
+#: ../footer.php:28
+msgid "Powered by"
+msgstr ""
+
+#: ../functions.php:19
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:175
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../functions.php:175
+msgid "(Author)"
+msgstr ""
+
+#: ../functions.php:177
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:177
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:182
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:238
+msgid "Anonymous"
+msgstr ""
+
+#: ../index.php:17
+msgid "Written by"
+msgstr ""
+
+#: ../index.php:19
+msgid "in"
+msgstr ""
+
+#: ../index.php:20
+#: ../search.php:46
+#: ../search.php:69
+msgid "1 Comment"
+msgstr ""
+
+#: ../index.php:21
+#: ../search.php:48
+#: ../search.php:70
+msgid "edit"
+msgstr ""
+
+#: ../index.php:37
+#: ../single.php:24
+msgid "Read more..."
+msgstr ""
+
+#: ../index.php:53
+msgid "&larr; Older Entries"
+msgstr ""
+
+#: ../index.php:54
+msgid "Newer Entries &rarr;"
+msgstr ""
+
+#: ../search.php:7
+#, php-format
+msgid "Search Results for: \"%s\""
+msgstr ""
+
+#: ../search.php:26
+msgid "Autor:"
+msgstr ""
+
+#: ../search.php:29
+#: ../search.php:57
+msgid "Category:"
+msgstr ""
+
+#: ../search.php:35
+#: ../search.php:62
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../search.php:55
+msgid "Author:"
+msgstr ""
+
+#: ../search.php:104
+msgid "Older Entries"
+msgstr ""
+
+#: ../search.php:105
+msgid "Newer Entries"
+msgstr ""
+
+#: ../searchform.php:4
+msgid "search"
+msgstr ""
+
+#: ../template-contact.php:21
+#: ../template-contact.php:144
+#: ../template-contact.php:153
+msgid "Enter your name."
+msgstr ""
+
+#: ../template-contact.php:29
+msgid "Enter your email."
+msgstr ""
+
+#: ../template-contact.php:32
+msgid "Invalid email."
+msgstr ""
+
+#: ../template-contact.php:40
+msgid "Enter your comments."
+msgstr ""
+
+#: ../template-contact.php:54
+msgid "Contact Form Submission from "
+msgstr ""
+
+#: ../template-contact.php:55
+msgid "Name: "
+msgstr ""
+
+#: ../template-contact.php:55
+msgid "Email: "
+msgstr ""
+
+#: ../template-contact.php:55
+msgid "Comments: "
+msgstr ""
+
+#: ../template-contact.php:56
+msgid "From: My Site"
+msgstr ""
+
+#: ../template-contact.php:56
+msgid "Reply-To: "
+msgstr ""
+
+#: ../template-contact.php:82
+msgid "Your email was successfully sent. I will be in touch soon."
+msgstr ""
+
+#: ../template-contact.php:109
+msgid "Tel:"
+msgstr ""
+
+#: ../template-contact.php:116
+msgid "Email:"
+msgstr ""
+
+#: ../template-contact.php:123
+msgid "Skype:"
+msgstr ""
+
+#: ../template-contact.php:125
+msgid "Adress:"
+msgstr ""
+
+#: ../template-contact.php:139
+msgid "Your Name"
+msgstr ""
+
+#: ../template-contact.php:149
+msgid "Your Email"
+msgstr ""
+
+#: ../template-contact.php:156
+msgid "Subject"
+msgstr ""
+
+#: ../template-contact.php:161
+msgid "Your Message"
+msgstr ""
+
+#: ../template-contact.php:162
+msgid "Enter your message."
+msgstr ""
+
+#: ../template-contact.php:170
+msgid "If you want to submit this form, do not enter anything in this field"
+msgstr ""
+
+#: ../template-contact.php:174
+msgid "Send"
+msgstr ""
+
+#: ../template-sitemap.php:30
+msgid "Pages"
+msgstr ""
+
+#: ../template-sitemap.php:37
+msgid "Categories"
+msgstr ""
+
+#: ../template-sitemap.php:44
+msgid "Tags"
+msgstr ""
+
+#: ../includes/header-title.php:17
+#, php-format
+msgid "All posts tagged %s"
+msgstr ""
+
+#: ../includes/header-title.php:20
+msgid "Search Results for"
+msgstr ""
+
+#: ../includes/header-title.php:33
+#: ../includes/header-title.php:36
+#: ../includes/header-title.php:39
+msgid "Archive for"
+msgstr ""
+
+#: ../includes/header-title.php:45
+msgid "Blog Archives"
+msgstr ""
+
+#: ../includes/m-nav.php:8
+msgid "Old entries"
+msgstr ""
+
+#: ../includes/m-nav.php:11
+msgid "New entries"
+msgstr ""
+
+#: ../includes/navigation.php:4
+msgid "OLDER"
+msgstr ""
+
+#: ../includes/navigation.php:5
+msgid "NEWER"
+msgstr ""
+
+#: ../includes/widgets/widget-ad259x200.php:36
+msgid "A widget that allows the display and configuration of of a single 259x200 Banner."
+msgstr ""
+
+#: ../includes/widgets/widget-ad259x200.php:47
+msgid "Theme4all Custom 259x200 Ad"
+msgstr ""
+
+#: ../includes/widgets/widget-ad259x200.php:125
+#: ../includes/widgets/widget-video.php:134
+msgid "Title:"
+msgstr ""
+
+#: ../includes/widgets/widget-ad259x200.php:131
+msgid "Ad image url:"
+msgstr ""
+
+#: ../includes/widgets/widget-ad259x200.php:137
+msgid "Ad link url:"
+msgstr ""
+
+#: ../includes/widgets/widget-recent-popular.php:36
+msgid "A widget that displays Recent post, Popular post, Comments and tags."
+msgstr ""
+
+#: ../includes/widgets/widget-recent-popular.php:47
+msgid "Theme4all Recent and Popular Post"
+msgstr ""
+
+#: ../includes/widgets/widget-recent-popular.php:91
+#: ../includes/widgets/widget-recent-popular.php:97
+msgid "Link to "
+msgstr ""
+
+#: ../includes/widgets/widget-video.php:36
+msgid "A widget that displays your YouTube or Vimeo Video."
+msgstr ""
+
+#: ../includes/widgets/widget-video.php:47
+msgid "Theme4all Video Widget"
+msgstr ""
+
+#: ../includes/widgets/widget-video.php:140
+msgid "Embed Code, width 259px x 220px:"
+msgstr ""
+
+#: ../includes/widgets/widget-video.php:146
+msgid "Short Description:"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:26
+msgid "A Section added by hook"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:27
+msgid "<p class=\"description\">This is a section created by adding a filter to the sections array, great to allow child themes, to add/remove sections from the options.</p>"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:85
+msgid "<p>Thank you for using our Themes4all.com theme. Please follow us on <a href=\"https://www.facebook.com/Themes4all\">Facebook</a>, <a href=\"https://twitter.com/Themes4all\">Twitter</a> or <a href=\"https://plus.google.com/u/0/b/106001525873448285383/106001525873448285383/posts\">Google+</a>.</p>"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:90
+msgid "Folow us on Facebook"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:95
+msgid "Folow us on Twitter"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:100
+msgid "Find us on Google+"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:114
+msgid "Theme Options"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:117
+msgid "Basic Theme Options"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:144
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:145
+#: ../nhpoption/nhp-options.php:150
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:149
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:154
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:178
+msgid "General Settings"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:179
+#: ../nhpoption/nhp-options.php:541
+#: ../nhpoption/nhp-options.php:651
+msgid "<p class=\"description\"></p>"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:184
+msgid "Custom Logo"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:186
+msgid "Choose your own logo."
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:191
+msgid "Custom Favicon"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:193
+msgid "Choose a 16px x 16px image that will represent your website's favicon."
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:200
+msgid "Facebook profile URL"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:207
+msgid "Google+ profile URL"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:214
+msgid "Twitter profile URL"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:221
+msgid "RSS profile URL "
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:228
+msgid "Breadcrumb display Settings"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:237
+msgid "Comment display Settings"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:249
+msgid "Home Page Settings"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:255
+msgid "Home page display Settings"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:256
+msgid "Choose content type."
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:268
+msgid "<p class=\"description\">If Single page option is chosen, select a page that will be displayed.</p>"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:273
+msgid "Select a page for the home page"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:281
+msgid "<p class=\"description\">If Display category on the home page is chosen, select the category and the number of posts that will be displayed below the three boxes.</p>"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:286
+msgid "Select a category for the home page"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:294
+msgid "Enter the number of display posts from the category"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:302
+msgid "<p class=\"description\">Select an individual page for each of the three boxes below.</p>"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:307
+msgid "Select a page for the First Box"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:315
+msgid "Select ico for first box"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:331
+msgid "Select a page for the Second Box"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:339
+msgid "Select ico for second box"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:355
+msgid "Select a page for the Third Box"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:363
+msgid "Select ico for third box"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:380
+msgid "Post General Settings"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:381
+msgid "<p class=\"description\">Show or hide all post meta information in a post.</p>"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:386
+msgid "Display all post meta on/off"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:387
+#: ../nhpoption/nhp-options.php:457
+msgid "Show or hide all post meta information."
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:395
+#: ../nhpoption/nhp-options.php:465
+msgid "Display author meta on/off"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:404
+#: ../nhpoption/nhp-options.php:474
+msgid "Display date meta on/off"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:413
+#: ../nhpoption/nhp-options.php:483
+msgid "Display categories meta on/off"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:422
+#: ../nhpoption/nhp-options.php:492
+msgid "Display comments meta on/off"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:431
+msgid "Display author info on/off"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:440
+msgid "Display tags on/off"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:450
+msgid "Category General Settings"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:451
+msgid "<p class=\"description\">Show or hide all post meta information in a category.</p>"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:456
+msgid "Display all category post meta on/off"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:502
+msgid "Bottom Page Gallery"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:503
+msgid "<p class=\"description\">Select the category of the gallery post that will be displayed on the bottom of the page. </p>"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:508
+msgid "Turn the home page gallery on/off"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:517
+msgid "Select a Category"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:525
+msgid "Bottom gallery title"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:532
+msgid "Bottom gallery subtitle"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:540
+msgid "Image Thumbnail Settings"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:546
+msgid "Choose a display link / a display link and a fancybox for Gallery"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:555
+msgid "Choose a display link / a display link and a fancybox for Portfolio"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:565
+msgid "Contact Page Settings"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:571
+msgid "Company name"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:578
+msgid "Telephone number"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:593
+msgid "Skype"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:601
+msgid "Address"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:609
+msgid "City"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:617
+msgid "ZIP code"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:625
+msgid "State"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:633
+msgid "Contact form email"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:634
+msgid "Enter an email address to send the contact form to."
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:641
+msgid "Insert Google Maps Iframe"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:643
+msgid "You must set width=\"894\" and height=\"450\" px"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:650
+msgid "Custom Styles Settings"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:656
+msgid "Background colour"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:657
+#: ../nhpoption/nhp-options.php:753
+#: ../nhpoption/nhp-options.php:771
+#: ../nhpoption/nhp-options.php:780
+msgid "If is empty - colour is a default"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:665
+msgid "Background texture"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:743
+msgid "Select body font"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:752
+msgid "Body text colour"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:761
+msgid "Select titles font"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:762
+msgid "H1, H2, H3, H4, H5, H6, entry title, page title"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:770
+msgid "Titles colour"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:779
+msgid "Anchors colour"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:808
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:809
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:810
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:812
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:819
+msgid "Theme Information"
+msgstr ""
+
+#: ../nhpoption/nhp-options.php:826
+msgid "Documentation"
+msgstr ""
+
+#: ../nhpoption/options/options.php:49
+#: ../nhpoption/options/options.php:51
+msgid "Options"
+msgstr ""
+
+#: ../nhpoption/options/options.php:63
+msgid ""
+"<span id=\"footer-thankyou\">\n"
+"    Options Panel created using the <a href=\""
+msgstr ""
+
+#: ../nhpoption/options/options.php:248
+#: ../nhpoption/options/options.php:249
+#: ../nhpoption/options/options.php:682
+msgid "Import / Export"
+msgstr ""
+
+#: ../nhpoption/options/options.php:275
+#: ../nhpoption/options/options.php:276
+#: ../nhpoption/options/options.php:701
+#: ../nhpoption/options/options.php:783
+msgid "Dev Mode Info"
+msgstr ""
+
+#: ../nhpoption/options/options.php:331
+msgid "Are you sure? Resetting will loose all custom values."
+msgstr ""
+
+#: ../nhpoption/options/options.php:648
+#: ../nhpoption/options/options.php:808
+msgid "Reset to Defaults"
+msgstr ""
+
+#: ../nhpoption/options/options.php:654
+msgid "<strong>Settings Imported!</strong>"
+msgstr ""
+
+#: ../nhpoption/options/options.php:656
+msgid "<strong>Settings Saved!</strong>"
+msgstr ""
+
+#: ../nhpoption/options/options.php:660
+msgid "<strong>Settings have changed!, you should save them!</strong>"
+msgstr ""
+
+#: ../nhpoption/options/options.php:661
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#: ../nhpoption/options/options.php:663
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#: ../nhpoption/options/options.php:719
+msgid "Import / Export Options"
+msgstr ""
+
+#: ../nhpoption/options/options.php:721
+msgid "Import Options"
+msgstr ""
+
+#: ../nhpoption/options/options.php:729
+msgid "Input your backup file below and hit Import to restore your sites options from a backup."
+msgstr ""
+
+#: ../nhpoption/options/options.php:742
+msgid "Input the URL to another sites options set and hit Import to load the options from that site."
+msgstr ""
+
+#: ../nhpoption/options/options.php:752
+msgid "Import"
+msgstr ""
+
+#: ../nhpoption/options/options.php:752
+msgid "Any existing settings will be overwritten, please proceed with caution!"
+msgstr ""
+
+#: ../nhpoption/options/options.php:755
+msgid "Export Options"
+msgstr ""
+
+#: ../nhpoption/options/options.php:757
+msgid "Here you can copy or download your current theme settings. Keep them in a safe place. Should anything go wrong, you can use them to restore your settings on this site (or any other site with the same theme). A handy option of copying the link with current theme settings is also available. "
+msgstr ""
+
+#: ../nhpoption/options/fields/color_gradient/field_color_gradient.php:35
+msgid "From:"
+msgstr ""
+
+#: ../nhpoption/options/fields/color_gradient/field_color_gradient.php:38
+msgid " To:"
+msgstr ""
+
+#: ../nhpoption/options/fields/google_webfonts/field_google_webfonts.php:42
+msgid "The fonts provided below are free to use custom fonts from the <a href=\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts directory</a>.<br/>Please <a href=\"http://www.google.com/webfonts\" target=\"_blank\">browse the directory</a> to preview a font, then select your choice below."
+msgstr ""
+
+#: ../nhpoption/options/fields/multi_text/field_multi_text.php:39
+#: ../nhpoption/options/fields/multi_text/field_multi_text.php:46
+#: ../nhpoption/options/fields/multi_text/field_multi_text.php:50
+msgid "Remove"
+msgstr ""
+
+#: ../nhpoption/options/fields/multi_text/field_multi_text.php:54
+msgid "Add More"
+msgstr ""
+
+#: ../nhpoption/options/fields/upload/field_upload.php:39
+msgid "Browse"
+msgstr ""
+
+#: ../nhpoption/options/fields/upload/field_upload.php:40
+msgid "Remove Upload"
+msgstr ""
+
+#: ../nhpoption/options/validation/color/validation_color.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../nhpoption/options/validation/comma_numeric/validation_comma_numeric.php:15
+msgid "You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#: ../nhpoption/options/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../nhpoption/options/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../nhpoption/options/validation/no_html/validation_no_html.php:15
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../nhpoption/options/validation/no_special_chars/validation_no_special_chars.php:15
+msgid "You must not enter any special characters in this field, all special characters have been removed."
+msgstr ""
+
+#: ../nhpoption/options/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../nhpoption/options/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
